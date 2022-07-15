@@ -5,7 +5,7 @@ Objectives:
 - Familiarize code with randome module
 - use shuffle
 - use randint
-- use word.format
+- use word.format(arg)
 
 Example Output:
 
